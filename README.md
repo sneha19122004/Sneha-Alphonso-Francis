@@ -96,7 +96,7 @@ Engineered a hybrid land-water robot with real-time SLAM mapping. Secured **₹1
 
 ---
 
-### [Prosthetic Bionic Arm](link-to-repo)
+### [Prosthetic Bionic Arm](https://github.com/sneha19122004/bionic-prosthetic-arm/tree/master)
 *ESP32 · Embedded C · SolidWorks · 3D Printing*
 
 Developed an EMG-controlled prosthetic arm achieving **90% motion accuracy** in gesture-based control testing. Fully 3D-printed and designed for user comfort.
