@@ -103,7 +103,7 @@ Developed an EMG-controlled prosthetic arm achieving **90% motion accuracy** in 
 
 ---
 
-### [Vision-Based HMI System](link-to-repo)
+### [Vision-Based HMI System](https://github.com/sneha19122004/Vision-Based-HMI-System)
 *Python · OpenCV · MediaPipe*
 
 Built a contactless home automation system using facial identification and gesture recognition. Achieved **95% recognition accuracy** with real-time device control.
