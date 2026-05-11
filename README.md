@@ -8,7 +8,7 @@
 
 ## About Me
 
-Final-year Robotics & Automation engineering student at **Adi Sankara Institute of Engineering & Technology** (CGPA: 9.48), specialising in **UAV design, ROS2, and embedded systems**. I've led two grant-funded builds totalling ₹3.3L, filed a design patent, published in IEEE, and founded a UAV startup — all while building and mentoring two technical communities.
+Robotics & Automation engineer graduate, specialising in **UAV design, ROS2, and embedded systems**. I've led two grant-funded builds totalling ₹3.3L, filed a design patent, published in IEEE, and founded a UAV startup — all while building and mentoring two technical communities.
 
 - 🚀 **Founder** – [Ornistra Intelligence], a UAV systems & embedded solutions startup
 - 🦅 Currently building: **Ornithopter medical delivery drone** (₹2,00,000 KTU grant-funded, design patent filed)
