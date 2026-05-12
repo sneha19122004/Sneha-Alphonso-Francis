@@ -82,7 +82,7 @@ Designed and simulated a flapping-wing medical drone capable of carrying a **500
 
 ---
 
-### [Assistive Bot for Arm Rehabilitation Therapy – G-KAI](link-to-repo)
+### [Assistive Bot for Arm Rehabilitation Therapy – G-KAI](https://github.com/sneha19122004/ai-rehab-therapy-assistant)
 *Simulink · Python · MongoDB · Computer Vision*
 
 Contributed to an AI-powered arm rehabilitation device at Genrobotics. Programmed **4-DOF arm movements** via Simulink with simultaneous multi-motor control, real-time motion tracking, and a **NoSQL patient data pipeline** using MongoDB.
