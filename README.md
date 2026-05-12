@@ -89,7 +89,7 @@ Contributed to an AI-powered arm rehabilitation device at Genrobotics. Programme
 
 ---
 
-### [Amphibious Bot](link-to-repo)
+### [Amphibious Bot](https://github.com/sneha19122004/amphibious-bot)
 *Fusion 360 · ROS · SLAM · LiDAR*
 
 Engineered a hybrid land-water robot with real-time SLAM mapping. Secured **₹1,30,000 grant** and published an **IEEE conference paper** — *"Revolutionary Screw-Propelled Amphibious Robots for Environmental and Disaster Management"* — presented at IEEE ACCESS '25.
