@@ -75,7 +75,7 @@ Robotics & Automation engineer graduate, specialising in **UAV design, ROS2, and
 
 ## 🚀 Featured Projects
 
-### [Ornithopter for Medical Equipment Delivery](link-to-repo)
+### [Ornithopter for Medical Equipment Delivery](https://github.com/sneha19122004/Development-of-Ornithopter-Mechanism)
 *SolidWorks · ROS2 · Gazebo · 3D Printing*
 
 Designed and simulated a flapping-wing medical drone capable of carrying a **500g payload** with energy-efficient biomimetic flight. Secured **₹2,00,000 grant** from KTU Startup Cell; filed **Design Patent** (App. No. R202640252535).
